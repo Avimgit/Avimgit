@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Avimgit
-- 👀 I’m interested in crypto,learning,nft etc
-- 🌱 I’m currently learning just learning
-- 💞️ I’m looking to collaborate on nft design
-- 📫 How to reach me you find out
+- 👀 I’m interested in Oracle PL/SQL, AI/ML, Autonomous sysytem,AI Agent, Simulation, etc
+- 🌱 I’m currently learning just learning, some trying, some working
+- 💞️ I’m looking up to project for learning and execution.
+- 📫 How to reach me you find out.
 
 <!---
 Avimgit/Avimgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avimgit
-- 👀 I’m interested in Oracle PL/SQL, AI/ML, Autonomous sysytem, AI Agent, Simulation, etc
-- 🌱 I’m currently learning just learning, some trying, some working
+- 👀 I’m interested in Oracle PL/SQL, AI/ML, Autonomous sysytem, AI Agent, Simulation, etc.
+- 🌱 I’m currently learning just learning, some trying, some working.
 - 💞️ I’m looking up to project for learning and execution.
 - 📫 How to reach me you find out.
 
